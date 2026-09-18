@@ -1,7 +1,5 @@
 # Web de Grupo Arké
 
-Sitio estático preparado para publicar gratuitamente con GitHub Pages.
-
 ## Editar contenido
 
 - Textos y enlaces: `index.html`.
@@ -28,19 +26,7 @@ La forma más simple es conservar el nombre del archivo que se reemplaza:
 
 Se recomienda usar JPG o WebP, con un ancho mínimo de 1600 px para las imágenes amplias y 800 px para los retratos.
 
-## Publicar con GitHub Pages
-
-1. Crear un repositorio nuevo en GitHub.
-2. Subir todos los archivos y carpetas de este proyecto a la raíz del repositorio.
-3. En el repositorio, abrir **Settings → Pages**.
-4. En **Build and deployment**, seleccionar **Deploy from a branch**.
-5. Elegir la rama `main` y la carpeta `/ (root)`, y guardar.
-
-GitHub mostrará la dirección pública cuando termine la publicación.
-
 ## Contactos configurados
 
 - WhatsApp principal: Claudio, `+54 9 11 6798-5857`.
 - Emails: Claudio y Juan Marcos.
-
-Antes de publicar, conviene confirmar el teléfono de Juan Marcos que aparece en el material original.
